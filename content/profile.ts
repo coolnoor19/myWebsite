@@ -9,10 +9,10 @@ export const profile = {
   openTo: "Backend / AI engineering roles",
   tagline:
     "I design and build scalable backends and AI systems that stay fast, observable and boring under load.",
-  email: "hello@example.com",
+  email: "nooralam192001@gmail.com",
   links: {
-    github: "https://github.com/your-handle",
-    linkedin: "https://www.linkedin.com/in/your-handle",
+    github: "https://github.com/coolnoor19",
+    linkedin: "https://www.linkedin.com/in/noor192001",
     resume: "/resume.pdf",
   },
   about: [
@@ -26,7 +26,7 @@ export const profile = {
     "Ship small, observe, iterate",
   ],
   stats: [
-    { value: "3+", label: "years shipping backends" },
+    { value: "2+", label: "years shipping backends" },
     { value: "10M+", label: "requests / day served" },
     { value: "15+", label: "services in production" },
   ],

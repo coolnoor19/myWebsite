@@ -4,7 +4,7 @@ export const stack: { title: string; accent: Accent; items: string[] }[] = [
   {
     title: "Languages",
     accent: "violet",
-    items: ["Python", "Go", "TypeScript", "SQL"],
+    items: ["Javascript", "Python", "Go", "TypeScript", "SQL"],
   },
   {
     title: "Backend",
