@@ -13,7 +13,7 @@ export const profile = {
   links: {
     github: "https://github.com/coolnoor19",
     linkedin: "https://www.linkedin.com/in/noor192001",
-    resume: "/resume.pdf",
+    resume: "https://drive.google.com/file/d/1mGpNxO7iOrPhAAK_plT6dR0Ct2kouPk3/view",
   },
   about: [
     "I'm a software engineer focused on the unglamorous parts that make products work: APIs, data pipelines, queues, caches and the infrastructure that keeps them running.",
